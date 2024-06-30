@@ -1,5 +1,4 @@
 import FriendListItem from "../FriendListItem/FriendListItem";
-import friendsData from "../App/friends.json";
 import s from "./FriendList.module.css";
 
 const FriendList = ({ friends }) => {
